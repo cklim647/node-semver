@@ -1,4 +1,4 @@
-semver(1) -- The semantic versioner for npm
+ msemver(1) -- The semantic versioner for npm
 ===========================================
 
 ## Install
